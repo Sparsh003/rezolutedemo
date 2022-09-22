@@ -1,0 +1,62 @@
+.page-width {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.icons-1 {
+  font-size: 30px;
+}
+
+.text-none {
+  text-decoration: none;
+  color: white;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+@media (max-width: 600px) {
+  .custom {
+    width: 95%;
+    margin: auto;
+  }
+}
+
+.bold-class {
+  font-size: 16px !important;
+  font-weight: 600 !important;
+  color: rgb(25 118 210) !important;
+}
+
+.margin-top {
+  margin-top: 15px;
+}
+
+.margin-top-bottom {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.margin-bottom {
+  margin-bottom: 15px;
+}
+
+.margin-left {
+  margin-left: 5px;
+}
+
+.flex p {
+  color: rgb(37, 114, 88);
+}
+
+.not-found {
+  text-align: center;
+  color: red;
+}
+.center-heading{
+  text-align: center;
+}
